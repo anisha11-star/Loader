@@ -22,4 +22,8 @@ Through this project, I learned how to:
 - Use CSS transforms for smooth rotation effects.
 - Build simple UI components without JavaScript.
 
+## 📸 Preview
+
+![Loading Spinner](loader.png)
+
 
